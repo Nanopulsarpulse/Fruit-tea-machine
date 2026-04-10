@@ -1,3 +1,3 @@
 # shemaoyu
-...
+
 Our intelligent fruit tea machine uses high-precision face recognition to detect users' age quickly. It then formulates personalized, healthy fruit tea recipes tailored to different age groups, with natural ingredients, no artificial additives, and convenient operation.
